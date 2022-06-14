@@ -59,3 +59,17 @@ Class Components 	More feature rich.. Maintain their own private data -state
 Complete UI logic
 Provide lifecycle hooks
 stateful/ Smart/ Container components
+
+Hooks
+
+No breaking changes
+completely opt-int and 100% backward-compatible
+
+JSX
+
+javascript XML(JSX)- Extension to the Javascript language syntax.
+Write XML-Like code for elements and Components.
+JSX tag have a tag name, attributes and children.
+JSX is not a necessity to write react applications.
+JSX make our react code simpler and elegant.
+JSX ultimately transpiles to pure Javascript which is understood by the browsers.
